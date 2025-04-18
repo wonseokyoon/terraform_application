@@ -5,7 +5,6 @@ spring:
   data:
     redis:
       port: 36379
-
   application:
     name: back-250417
   profiles:
